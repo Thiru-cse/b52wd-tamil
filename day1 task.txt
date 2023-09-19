@@ -1,4 +1,10 @@
 Question.1
 Answer.
 
-console.log("hello");
+Question.2
+Answer.
+
+Question.3
+Answer.
+
+console.log("hello, B52WD Tamil");
